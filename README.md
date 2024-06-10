@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0bit0s3k4i
 - 👀 I’m interested in SwiftUI Swift,Python 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Beginnerfriendly Software 
-- 📫 How to reach me 
+- 🌱 I’m currently learning Python & SQL 
+-  I’m looking to collaborate on Beginnerfriendly Software 
+
 
 
 <!---
